@@ -4,4 +4,4 @@ I created a repository in GitHub, made a second branch, and converted my Week 2 
 
 [Here is the link to my Repository on GitHub](https://github.com/liveoutloud/newassignment-3_boone-janetta)
 
-> blockquote "I have read the Code Requirements Reference Sheet. My code follows the requirements."
+>"I have read the Code Requirements Reference Sheet. My code follows the requirements."
