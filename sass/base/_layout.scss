@@ -1,6 +1,6 @@
 body {
   background-color: #a6fecd;
-	font-family: 'Meera Inimai', sans-serif;
+	font-family: $primary-font;
 	text-align: center;
 	color: #2a2b2a;
 }
@@ -38,7 +38,7 @@ body {
 	background-color: #808080;
 	list-style-type: none;
 	display: inline;
-	font-family: 'Open Sans', sans-serif;
+	font-family: $secondary-font;
 	font-weight: bold;
 	padding: 2%;
 	margin: 2%;
