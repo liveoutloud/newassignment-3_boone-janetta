@@ -6,51 +6,72 @@
 article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
     display:block;
 }
-body {
+
+/* body {
   background-color: #a6fecd;
 	font-family: 'Meera Inimai', sans-serif;
 	text-align: center;
 	color: #2a2b2a;
-}
-.container {
+} */
+
+/* .container {
 	padding: 2%;
 	margin: 5%;
-}
-.main {
+} */
+
+/* .main {
 	background-color: #ffffff;
 	padding: 7%;
 	margin-bottom: 3%;
-}
-h1 {
+} */
+
+/* h1 {
 	font-size: 50px;
 }
+
 h2 {
 	font-size: 30px;
 }
-h3, h4 {
+
+h3 {
 	font-size: 22px;
 }
-h5, h6 {
+
+h4 {
+	font-size: 20px;
+}
+
+h5 {
 	font-size: 19px;
 }
+
+h6 {
+	font-size: 15px;
+}
+
 p, link {
 	font-size: 18px;
-}
-.ul {
+} */
+
+/* .nav__ul {
 	list-style-type: none;
 }
+
 .nav {
 	padding-bottom: 5%;
 }
+
 .nav__ul li a:link {
 	color: black;
 	text-decoration: none;
 }
+
 .nav__ul li a:hover {
 	background-color: #f17010;
 	text-decoration: none;
 }
-.nav__li {
+
+.nav__ul_item {
 	background-color: #808080;
 	list-style-type: none;
 	display: inline;
@@ -60,38 +81,46 @@ p, link {
 	margin: 2%;
 	width: 30%;
 }
+
 .article {
 	margin: 2%;
 }
-.article__image, .nav__li {
+
+.article__image, .nav__ul_item {
 	text-align: center;
 	-webkit-border-radius: 10px;
 	border-radius: 10px;
 }
+
 .article__image {
 	width: 45%;
 	padding: 2%;
 }
+
 footer {
 	background-color: #000000;
 	color: #ffffff;
 	padding: 7%;
-}
-h3, h4, h5, h6 {
+} */
+
+/* h3, h4, h5, h6 {
 	margin: 2%;
-}
+} */
+
 /*--------Medium SCREEN--------*/
 @media screen and (min-width: 675px) {
 	body {
   	background-color: #7abc98;
 	}
 }
+
 /*--------Large SCREEN--------*/
 @media screen and (min-width: 999px) {
 	body {
   	background-color: #507962;
 	}
 }
+
 /*--------XL SCREEN--------*/
 @media screen and (min-width: 1280px) {
 	body {
